@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.29 131.02">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 62.36px;
+      }
+
+      .cls-2 {
+        fill: #16190f;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-1" transform="translate(0 68.2)"><tspan x="0" y="0">Lu</tspan></text>
+    <text class="cls-1" transform="translate(124.86 93.23)"><tspan x="0" y="0">ico.</tspan></text>
+    <path class="cls-2" d="M105.46,54.24l14.74,38.57h-17.15l-9.05-23.83-26.14,42.02h-16.72l36.83-57.76-14.57-38.24h17.15l8.96,23.5L121.39,0h16.72l-32.65,54.24Z"/>
+  </g>
+</svg>
